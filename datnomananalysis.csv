@@ -1,0 +1,41 @@
+﻿Date_Type,Phyla,MeanAbu,StdDev,Low,High
+fall pre-manure soil,Actinobacteria,0,0,0,0
+fall pre-manure soil,Bacteria_unclassified,1.61422E-06,1.68651E-05,-1.52509E-05,1.84793E-05
+fall pre-manure soil,Bacteroidetes,9.37859E-06,6.67082E-05,-5.73296E-05,7.60867E-05
+fall pre-manure soil,Firmicutes,5.21421E-05,0.000395137,-0.000342995,0.000447279
+fall pre-manure soil,Proteobacteria,1.5066E-06,1.16302E-05,-1.01236E-05,1.31368E-05
+fall pre-manure soil,Spirochaetes,0,0,0,0
+fall pre-manure soil,Synergistetes,0,0,0,0
+fall pre-manure soil,Tenericutes,7.53301E-07,6.25739E-06,-5.50409E-06,7.01069E-06
+manure line,Actinobacteria,0.000250143,0.000361332,-0.00011119,0.000611475
+manure line,Bacteria_unclassified,0.000532772,0.001679074,-0.001146303,0.002211846
+manure line,Bacteroidetes,0.001399934,0.007049088,-0.005649154,0.008449022
+manure line,Firmicutes,0.000689257,0.003649765,-0.002960509,0.004339022
+manure line,Proteobacteria,0.001768868,0.006802701,-0.005033833,0.008571569
+manure line,Spirochaetes,0.000250504,0.000692609,-0.000442105,0.000943113
+manure line,Synergistetes,0.000253392,0.000622684,-0.000369292,0.000876075
+manure line,Tenericutes,0.000262776,0.000687014,-0.000424237,0.00094979
+fall post-manure soil,Actinobacteria,3.38985E-05,7.68751E-05,-4.29765E-05,0.000110774
+fall post-manure soil,Bacteria_unclassified,1.77564E-05,9.35429E-05,-7.57865E-05,0.000111299
+fall post-manure soil,Bacteroidetes,8.06785E-05,0.000592795,-0.000512117,0.000673474
+fall post-manure soil,Firmicutes,7.86857E-05,0.000437821,-0.000359135,0.000516507
+fall post-manure soil,Proteobacteria,1.95858E-05,7.73379E-05,-5.77521E-05,9.69238E-05
+fall post-manure soil,Spirochaetes,1.43127E-05,6.35871E-05,-4.92744E-05,7.78998E-05
+fall post-manure soil,Synergistetes,1.80792E-05,9.44015E-05,-7.63223E-05,0.000112481
+fall post-manure soil,Tenericutes,4.5198E-06,2.63519E-05,-2.18321E-05,3.08717E-05
+spring time 1,Actinobacteria,3.18954E-05,7.01988E-05,-3.83033E-05,0.000102094
+spring time 1,Bacteria_unclassified,2.02511E-06,1.31321E-05,-1.1107E-05,1.51572E-05
+spring time 1,Bacteroidetes,6.85161E-06,4.76122E-05,-4.07606E-05,5.44638E-05
+spring time 1,Firmicutes,5.92804E-05,0.000385707,-0.000326426,0.000444987
+spring time 1,Proteobacteria,0.000119509,0.001078669,-0.00095916,0.001198178
+spring time 1,Spirochaetes,7.08788E-06,5.75822E-05,-5.04943E-05,6.467E-05
+spring time 1,Synergistetes,0,0,0,0
+spring time 1,Tenericutes,7.87542E-07,6.39802E-06,-5.61048E-06,7.18556E-06
+spring time 2,Actinobacteria,9.03961E-06,2.52373E-05,-1.61977E-05,3.42769E-05
+spring time 2,Bacteria_unclassified,2.2599E-06,2.12314E-05,-1.89715E-05,2.34913E-05
+spring time 2,Bacteroidetes,9.71758E-06,7.80863E-05,-6.83687E-05,8.78038E-05
+spring time 2,Firmicutes,4.7951E-05,0.000263111,-0.00021516,0.000311062
+spring time 2,Proteobacteria,0.000116197,0.001566159,-0.001449962,0.001682356
+spring time 2,Spirochaetes,6.02641E-06,3.6249E-05,-3.02226E-05,4.22754E-05
+spring time 2,Synergistetes,0,0,0,0
+spring time 2,Tenericutes,3.0132E-06,1.51384E-05,-1.21252E-05,1.81516E-05

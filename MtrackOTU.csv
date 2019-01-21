@@ -1,0 +1,417 @@
+OTU,log2FoldChange,pval,Sample,Phylum,Class,Order,Family,Genus,,,,,,OTU,
+2,8.871709679,3.29E-17,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,2
+5,7.296771098,4.43E-12,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Petrimonas,,,,,,Otu,5
+7,9.517253697,7.45E-18,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,7
+11,2.095534149,0.000791037,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,11
+21,9.124339906,3.29E-17,11/15/16 Manure Line,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,21
+39,8.310891199,1.58E-14,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,39
+51,6.231229092,9.58E-07,11/15/16 Manure Line,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,,,,,Otu,51
+60,9.989047734,5.47E-18,11/15/16 Manure Line,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonadaceae_unclassified,,,,,,Otu,60
+75,9.808802498,3.07E-16,11/15/16 Manure Line,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,,,,,,Otu,75
+86,7.369076186,3.19E-10,11/15/16 Manure Line,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,86
+94,2.005812,0.126851575,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,94
+102,2.189752129,0.003154327,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Terrisporobacter,,,,,,Otu,102
+123,7.422568274,1.20E-10,11/15/16 Manure Line,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,123
+138,23.05304845,4.96E-58,11/15/16 Manure Line,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,,,,,,Otu,138
+149,5.931056429,3.53E-09,11/15/16 Manure Line,Firmicutes,Negativicutes,Selenomonadales,Acidaminococcaceae,Phascolarctobacterium,,,,,,Otu,149
+166,2.836422513,0.635679642,11/15/16 Manure Line,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,,,,,,Otu,166
+179,5.550050334,1.20E-06,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,179
+187,5.397258887,0.000577131,11/15/16 Manure Line,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,,,,,,Otu,187
+193,6.117101479,4.99E-10,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,,,Otu,193
+202,1.807809421,0.057167241,11/15/16 Manure Line,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Turicibacter,,,,,,Otu,202
+213,2.228482081,0.015364725,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Romboutsia,,,,,,Otu,213
+214,1.489277274,0.138072556,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,214
+219,3.29601055,0.635679642,11/15/16 Manure Line,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinospirillum,,,,,,Otu,219
+236,1.563632258,0.635679642,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,,,,,Otu,236
+254,2.238964936,0.635679642,11/15/16 Manure Line,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,254
+286,7.342280273,1.91E-11,11/15/16 Manure Line,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Syntrophaceticus,,,,,,Otu,286
+299,6.479373674,8.66E-08,11/15/16 Manure Line,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,,,,,,Otu,299
+308,7.163875245,7.49E-11,11/15/16 Manure Line,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonadaceae_unclassified,,,,,,Otu,308
+325,6.55491501,2.02E-06,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,325
+327,5.658365049,1.00E-06,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonadaceae_unclassified,,,,,,Otu,327
+332,3.838516997,0.026026503,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Anaerocella,,,,,,Otu,332
+344,4.732658602,0.000577131,11/15/16 Manure Line,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,,,,,Otu,344
+346,7.549660488,1.32E-09,11/15/16 Manure Line,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,346
+397,5.52050607,8.14E-10,11/15/16 Manure Line,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcaceae_unclassified,,,,,,Otu,397
+399,3.856390178,0.02477727,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,399
+426,4.783809112,0.000248653,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,426
+431,5.221400812,0.022516706,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Marinilabiliaceae,Marinilabiliaceae_unclassified,,,,,,Otu,431
+448,3.699251709,0.489219113,11/15/16 Manure Line,Proteobacteria,Proteobacteria_unclassified,Proteobacteria_unclassified,Proteobacteria_unclassified,Proteobacteria_unclassified,,,,,,Otu,448
+457,6.937561833,4.36E-09,11/15/16 Manure Line,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Atopostipes,,,,,,Otu,457
+461,6.173636407,1.65E-09,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Sporanaerobacter,,,,,,Otu,461
+475,4.216001083,0.008877762,11/15/16 Manure Line,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,475
+498,-1.131045651,0.937253196,11/15/16 Manure Line,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Megasphaera,,,,,,Otu,498
+503,6.028159788,6.85E-06,11/15/16 Manure Line,Synergistetes,Synergistia,Synergistales,Synergistaceae,Aminobacterium,,,,,,Otu,503
+542,4.508370963,6.16E-05,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,542
+547,5.692109296,8.98E-08,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,547
+556,0.5327671,0.635679642,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,,,,,Otu,556
+591,3.433907601,0.356247639,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Anaerococcus,,,,,,Otu,591
+592,4.61072141,0.000577131,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,592
+593,2.918534838,0.635679642,11/15/16 Manure Line,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Sphaerochaeta,,,,,,Otu,593
+596,2.585813119,0.428853092,11/15/16 Manure Line,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Selenomonas,,,,,,Otu,596
+612,3.272895627,0.368472453,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,612
+673,3.829881232,0.024296241,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,673
+707,6.28737153,1.13E-07,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,707
+710,4.396079936,0.003310376,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,,,Otu,710
+748,6.382947427,1.20E-05,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,748
+768,4.964747413,0.000220003,11/15/16 Manure Line,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Ignatzschineria,,,,,,Otu,768
+776,3.354089226,0.635679642,11/15/16 Manure Line,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,,,,,Otu,776
+800,2.926898011,0.150362467,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,800
+805,4.002654942,0.001431296,11/15/16 Manure Line,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,,,,,,Otu,805
+826,3.90687007,0.224137032,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,,,Otu,826
+842,3.352504439,0.494754532,11/15/16 Manure Line,Proteobacteria,Gammaproteobacteria,Aeromonadales,Succinivibrionaceae,Succinivibrio,,,,,,Otu,842
+868,3.48062868,0.635679642,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,868
+878,3.359973285,0.380692708,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,878
+883,3.965694216,0.024196531,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,883
+918,2.032611824,0.635679642,11/15/16 Manure Line,Bacteroidetes,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,,,,,,Otu,918
+956,5.280657579,1.74E-05,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,956
+958,1.795082277,0.635679642,11/15/16 Manure Line,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Veillonellaceae_unclassified,,,,,,Otu,958
+973,5.029343687,0.002120431,11/15/16 Manure Line,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,973
+1028,3.342207014,0.494754532,11/15/16 Manure Line,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacteriaceae_unclassified,,,,,,Otu,1028
+1030,4.507566287,0.001431296,11/15/16 Manure Line,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,1030
+1086,3.396675749,0.635679642,11/15/16 Manure Line,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,,,,,,Otu,1086
+1144,2.269923176,0.635679642,11/15/16 Manure Line,Bacteroidetes,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,,,,,,Otu,1144
+1148,4.938413991,0.004134944,11/15/16 Manure Line,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,1148
+1149,4.352708169,0.072113542,11/15/16 Manure Line,Proteobacteria,Gammaproteobacteria,Aeromonadales,Succinivibrionaceae,Succinivibrio,,,,,,Otu,1149
+1178,3.262761649,0.635679642,11/15/16 Manure Line,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,,,,,,Otu,1178
+1192,5.599101779,4.75E-05,11/15/16 Manure Line,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Oligella,,,,,,Otu,1192
+1200,3.241582948,0.635679642,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,1200
+1202,4.481890255,0.015364725,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,1202
+1230,3.916614679,0.15439954,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,,,,,,Otu,1230
+1260,5.386334906,6.83E-07,11/15/16 Manure Line,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,,,,,,Otu,1260
+1306,5.010579306,0.004738941,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,1306
+1309,2.806715385,0.308308733,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Peptostreptococcaceae_unclassified,,,,,,Otu,1309
+1326,2.676669645,0.635679642,11/15/16 Manure Line,Synergistetes,Synergistia,Synergistales,Synergistaceae,Synergistaceae_unclassified,,,,,,Otu,1326
+1384,2.403645717,0.635679642,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1384
+1403,2.688782185,0.635679642,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1403
+1421,4.719957575,0.010164815,11/15/16 Manure Line,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,1421
+1435,4.128066056,0.050786697,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,1435
+1440,4.605946049,0.002070558,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Petrimonas,,,,,,Otu,1440
+1446,2.649968283,0.635679642,11/15/16 Manure Line,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,1446
+1458,2.068859406,0.635679642,11/15/16 Manure Line,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,,,,,,Otu,1458
+1500,4.684831228,2.46E-05,11/15/16 Manure Line,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,,,,,,Otu,1500
+1545,2.996774178,0.635679642,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,,,,,,Otu,1545
+1554,0.875223841,0.635679642,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,,,,,Otu,1554
+1596,4.123271177,0.019946911,11/15/16 Manure Line,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,1596
+1619,1.884811118,0.635679642,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonadaceae_unclassified,,,,,,Otu,1619
+1626,4.496667761,0.00954347,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Tissierella,,,,,,Otu,1626
+1635,0.169457365,0.635679642,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,1635
+1647,3.101139195,0.635679642,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1647
+1654,2.094761963,0.635679642,11/15/16 Manure Line,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Facklamia,,,,,,Otu,1654
+1708,3.976272871,0.147598731,11/15/16 Manure Line,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,1708
+1838,2.390198464,0.635679642,11/15/16 Manure Line,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1838
+1851,2.403176897,0.635679642,11/15/16 Manure Line,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Aerococcus,,,,,,Otu,1851
+1887,2.218299578,0.635679642,11/15/16 Manure Line,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,1887
+1922,2.389921518,0.635679642,11/15/16 Manure Line,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,,,,,,Otu,1922
+2,4.444799813,0.001316037,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,2
+5,2.23310237,0.22555195,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Petrimonas,,,,,,Otu,5
+7,5.298438757,0.000107899,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,7
+11,-0.354307935,0.999992225,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,11
+21,5.05292212,0.000169825,11/15/16 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,21
+39,4.09032037,0.005290792,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,39
+51,0.642306603,0.801366855,11/15/16 Soil,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,,,,,Otu,51
+60,2.424703596,0.256724949,11/15/16 Soil,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonadaceae_unclassified,,,,,,Otu,60
+75,2.110734008,0.346899253,11/15/16 Soil,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,,,,,,Otu,75
+86,0.39140391,0.866001309,11/15/16 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,86
+94,-0.431891104,0.999992225,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,94
+102,-0.679631588,0.999992225,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Terrisporobacter,,,,,,Otu,102
+123,4.213206318,0.005290792,11/15/16 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,123
+138,12.53505126,1.32E-14,11/15/16 Soil,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,,,,,,Otu,138
+149,2.929355317,0.05625565,11/15/16 Soil,Firmicutes,Negativicutes,Selenomonadales,Acidaminococcaceae,Phascolarctobacterium,,,,,,Otu,149
+166,0.140499734,0.904282495,11/15/16 Soil,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,,,,,,Otu,166
+179,0.8932136,0.701664866,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,179
+187,1.527111441,0.55907071,11/15/16 Soil,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,,,,,,Otu,187
+193,1.018666391,0.629570397,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,,,Otu,193
+202,-0.321196955,0.999992225,11/15/16 Soil,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Turicibacter,,,,,,Otu,202
+213,0.0431449,0.912430763,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Romboutsia,,,,,,Otu,213
+214,-0.962403849,0.999992225,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,214
+219,0.265946448,0.896235521,11/15/16 Soil,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinospirillum,,,,,,Otu,219
+236,0.809568498,0.683772277,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,,,,,Otu,236
+254,0.015038852,0.915382581,11/15/16 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,254
+286,4.1700677,0.003584167,11/15/16 Soil,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Syntrophaceticus,,,,,,Otu,286
+299,2.234545704,0.279018635,11/15/16 Soil,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,,,,,,Otu,299
+308,2.715008919,0.139762475,11/15/16 Soil,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonadaceae_unclassified,,,,,,Otu,308
+325,1.804670395,0.442365843,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,325
+327,1.144116922,0.62083337,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonadaceae_unclassified,,,,,,Otu,327
+332,1.018664912,0.684051061,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Anaerocella,,,,,,Otu,332
+344,0.015052472,0.915382581,11/15/16 Soil,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,,,,,Otu,344
+346,2.660759602,0.218474322,11/15/16 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,346
+397,2.441972265,0.092443279,11/15/16 Soil,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcaceae_unclassified,,,,,,Otu,397
+399,0.015052522,0.915382581,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,399
+426,1.144117117,0.628579715,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,426
+431,0.516850933,0.865669763,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Marinilabiliaceae,Marinilabiliaceae_unclassified,,,,,,Otu,431
+448,0.140498023,0.904282495,11/15/16 Soil,Proteobacteria,Proteobacteria_unclassified,Proteobacteria_unclassified,Proteobacteria_unclassified,Proteobacteria_unclassified,,,,,,Otu,448
+457,3.243368308,0.08188571,11/15/16 Soil,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Atopostipes,,,,,,Otu,457
+461,0.893215676,0.690257988,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Sporanaerobacter,,,,,,Otu,461
+475,0.391406838,0.867337617,11/15/16 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,475
+498,-1.113183229,0.999992225,11/15/16 Soil,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Megasphaera,,,,,,Otu,498
+503,1.912923296,0.397584709,11/15/16 Soil,Synergistetes,Synergistia,Synergistales,Synergistaceae,Aminobacterium,,,,,,Otu,503
+542,0.265958235,0.881497049,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,542
+547,2.029160512,0.276610034,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,547
+556,-0.864212843,0.999992225,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,,,,,Otu,556
+591,-0.235851941,0.942629598,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Anaerococcus,,,,,,Otu,591
+592,0.89321436,0.710619167,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,592
+593,0.015043444,0.915382581,11/15/16 Soil,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Sphaerochaeta,,,,,,Otu,593
+596,0.767766057,NA,11/15/16 Soil,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Selenomonas,,,,,,Otu,596
+612,0.140502536,0.901696582,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,612
+673,0.391408004,0.865669763,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,673
+707,1.922942764,0.350000739,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,707
+710,0.767762279,0.760159533,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,,,Otu,710
+748,2.392107562,0.305973777,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,748
+768,0.893214009,0.718956165,11/15/16 Soil,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Ignatzschineria,,,,,,Otu,768
+776,0.015042456,0.915382581,11/15/16 Soil,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,,,,,Otu,776
+800,-0.235847634,0.952862814,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,800
+805,1.270478442,0.523694265,11/15/16 Soil,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,,,,,,Otu,805
+826,0.39140359,0.879783534,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,,,Otu,826
+842,0.642307971,0.830479171,11/15/16 Soil,Proteobacteria,Gammaproteobacteria,Aeromonadales,Succinivibrionaceae,Succinivibrio,,,,,,Otu,842
+868,0.015042155,0.915382581,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,868
+878,0.391405893,0.875140716,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,878
+883,0.64231068,0.801366855,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,883
+918,-0.737654368,0.999992225,11/15/16 Soil,Bacteroidetes,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,,,,,,Otu,918
+956,1.01866611,0.670753027,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,956
+958,0.265958083,0.887061515,11/15/16 Soil,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Veillonellaceae_unclassified,,,,,,Otu,958
+973,1.018663322,0.710619167,11/15/16 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,973
+1028,0.015050712,0.915382581,11/15/16 Soil,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacteriaceae_unclassified,,,,,,Otu,1028
+1030,0.391407865,0.865669763,11/15/16 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,1030
+1086,0.516854677,0.865669763,11/15/16 Soil,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,,,,,,Otu,1086
+1144,0.015048753,0.915382581,11/15/16 Soil,Bacteroidetes,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,,,,,,Otu,1144
+1148,0.391405915,0.871698559,11/15/16 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,1148
+1149,0.015049745,0.915382581,11/15/16 Soil,Proteobacteria,Gammaproteobacteria,Aeromonadales,Succinivibrionaceae,Succinivibrio,,,,,,Otu,1149
+1178,0.015046774,0.915382581,11/15/16 Soil,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,,,,,,Otu,1178
+1192,0.89321373,0.732172908,11/15/16 Soil,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Oligella,,,,,,Otu,1192
+1200,0.642304957,0.852070237,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,1200
+1202,0.140503262,0.901696582,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,1202
+1230,0.391405465,0.876914436,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,,,,,,Otu,1230
+1260,1.650414903,0.396535517,11/15/16 Soil,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,,,,,,Otu,1260
+1306,1.018663575,0.725579222,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,1306
+1309,0.265958548,0.882241051,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Peptostreptococcaceae_unclassified,,,,,,Otu,1309
+1326,0.14050355,0.902893779,11/15/16 Soil,Synergistetes,Synergistia,Synergistales,Synergistaceae,Synergistaceae_unclassified,,,,,,Otu,1326
+1384,0.516858408,0.857630225,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1384
+1403,0.265951254,0.896235521,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1403
+1421,0.516858275,0.855488647,11/15/16 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,1421
+1435,0.140504471,0.901696582,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,1435
+1440,0.140505117,0.901696582,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Petrimonas,,,,,,Otu,1440
+1446,0.140504728,0.901846323,11/15/16 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,1446
+1458,0.265952906,0.896116097,11/15/16 Soil,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,,,,,,Otu,1458
+1500,2.068638959,0.26173421,11/15/16 Soil,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,,,,,,Otu,1500
+1545,0.265950961,0.896235521,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,,,,,,Otu,1545
+1554,-0.23584767,NA,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,,,,,Otu,1554
+1596,0.265956622,0.887584238,11/15/16 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,1596
+1619,0.015049082,0.915382581,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonadaceae_unclassified,,,,,,Otu,1619
+1626,0.140504789,0.901696582,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Tissierella,,,,,,Otu,1626
+1635,-1.727503113,0.999992225,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,1635
+1647,0.265953767,0.896116097,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1647
+1654,0.265955726,0.893432905,11/15/16 Soil,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Facklamia,,,,,,Otu,1654
+1708,0.015051266,0.915382581,11/15/16 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,1708
+1838,0.265955551,NA,11/15/16 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1838
+1851,0.516858169,0.862363506,11/15/16 Soil,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Aerococcus,,,,,,Otu,1851
+1887,0.767762004,NA,11/15/16 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,1887
+1922,-0.235848382,0.944887998,11/15/16 Soil,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,,,,,,Otu,1922
+2,-0.040471501,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,2
+5,-0.341425468,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Petrimonas,,,,,,Otu,5
+7,-0.433831111,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,7
+11,0.27738041,0.89452227,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,11
+21,3.416477849,0.020044163,2/17/17 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,21
+39,1.393183923,0.51271296,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,39
+51,0.158271036,0.99999992,2/17/17 Soil,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,,,,,Otu,51
+60,4.602593135,0.001270305,2/17/17 Soil,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonadaceae_unclassified,,,,,,Otu,60
+75,2.859685537,0.11202463,2/17/17 Soil,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,,,,,,Otu,75
+86,0.15827166,0.99999992,2/17/17 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,86
+94,0.440824145,0.845920777,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,94
+102,0.477546443,0.73002033,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Terrisporobacter,,,,,,Otu,102
+123,1.086942037,0.689549107,2/17/17 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,123
+138,21.65494296,1.01E-49,2/17/17 Soil,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,,,,,,Otu,138
+149,-0.200972776,0.99999992,2/17/17 Soil,Firmicutes,Negativicutes,Selenomonadales,Acidaminococcaceae,Phascolarctobacterium,,,,,,Otu,149
+166,-0.474689569,0.99999992,2/17/17 Soil,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,,,,,,Otu,166
+179,0.027120607,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,179
+187,0.945193133,0.807967975,2/17/17 Soil,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,,,,,,Otu,187
+193,0.027121645,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,,,Otu,193
+202,0.194553647,0.99999992,2/17/17 Soil,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Turicibacter,,,,,,Otu,202
+213,0.620843236,0.656428128,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Romboutsia,,,,,,Otu,213
+214,-0.346831696,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,214
+219,0.027111994,0.99999992,2/17/17 Soil,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinospirillum,,,,,,Otu,219
+236,-1.41763415,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,,,,,Otu,236
+254,0.027107575,0.99999992,2/17/17 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,254
+286,-0.223784802,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Syntrophaceticus,,,,,,Otu,286
+299,1.207503519,0.632155784,2/17/17 Soil,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,,,,,,Otu,299
+308,-0.092629725,0.99999992,2/17/17 Soil,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonadaceae_unclassified,,,,,,Otu,308
+325,0.027116243,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,325
+327,0.027120592,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonadaceae_unclassified,,,,,,Otu,327
+332,0.027120319,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Anaerocella,,,,,,Otu,332
+344,-0.098330456,0.99999992,2/17/17 Soil,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,,,,,Otu,344
+346,-0.21238051,0.99999992,2/17/17 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,346
+397,1.794715875,0.198781588,2/17/17 Soil,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcaceae_unclassified,,,,,,Otu,397
+399,0.027121259,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,399
+426,0.027120811,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,426
+431,0.027113221,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Marinilabiliaceae,Marinilabiliaceae_unclassified,,,,,,Otu,431
+448,0.027115143,0.99999992,2/17/17 Soil,Proteobacteria,Proteobacteria_unclassified,Proteobacteria_unclassified,Proteobacteria_unclassified,Proteobacteria_unclassified,,,,,,Otu,448
+457,2.093854271,0.26320792,2/17/17 Soil,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Atopostipes,,,,,,Otu,457
+461,-0.349232395,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Sporanaerobacter,,,,,,Otu,461
+475,0.158274591,0.99999992,2/17/17 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,475
+498,-1.822782679,0.99999992,2/17/17 Soil,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Megasphaera,,,,,,Otu,498
+503,0.027118185,0.99999992,2/17/17 Soil,Synergistetes,Synergistia,Synergistales,Synergistaceae,Aminobacterium,,,,,,Otu,503
+542,-0.092625727,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,542
+547,0.814045237,0.778216778,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,547
+556,-1.09734507,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,,,,,Otu,556
+591,-0.223783197,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Anaerococcus,,,,,,Otu,591
+592,0.027121398,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,592
+593,0.027112171,0.99999992,2/17/17 Soil,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Sphaerochaeta,,,,,,Otu,593
+596,0.557443171,NA,2/17/17 Soil,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Selenomonas,,,,,,Otu,596
+612,0.027119623,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,612
+673,0.158275751,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,673
+707,-0.098331074,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,707
+710,0.289429042,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,,,Otu,710
+748,0.68288637,0.920911465,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,748
+768,0.027121075,0.99999992,2/17/17 Soil,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Ignatzschineria,,,,,,Otu,768
+776,0.027111182,0.99999992,2/17/17 Soil,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,,,,,Otu,776
+800,-0.086922514,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,800
+805,1.125483845,0.586774623,2/17/17 Soil,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,,,,,,Otu,805
+826,0.027117443,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,,,Otu,826
+842,0.027118539,0.99999992,2/17/17 Soil,Proteobacteria,Gammaproteobacteria,Aeromonadales,Succinivibrionaceae,Succinivibrio,,,,,,Otu,842
+868,0.02711088,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,868
+878,0.027119703,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,878
+883,0.027121104,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,883
+918,-0.719883259,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,,,,,,Otu,918
+956,0.027121474,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,956
+958,-0.349231482,0.99999992,2/17/17 Soil,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Veillonellaceae_unclassified,,,,,,Otu,958
+973,0.420580842,0.99999992,2/17/17 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,973
+1028,0.027119445,0.99999992,2/17/17 Soil,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacteriaceae_unclassified,,,,,,Otu,1028
+1030,-0.098330068,0.99999992,2/17/17 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,1030
+1086,0.027116953,0.99999992,2/17/17 Soil,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,,,,,,Otu,1086
+1144,-0.098334103,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,,,,,,Otu,1144
+1148,0.027119712,0.99999992,2/17/17 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,1148
+1149,0.027118478,0.99999992,2/17/17 Soil,Proteobacteria,Gammaproteobacteria,Aeromonadales,Succinivibrionaceae,Succinivibrio,,,,,,Otu,1149
+1178,0.027115503,0.99999992,2/17/17 Soil,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,,,,,,Otu,1178
+1192,0.158274858,0.99999992,2/17/17 Soil,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Oligella,,,,,,Otu,1192
+1200,0.02711569,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,1200
+1202,0.027120349,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,1202
+1230,0.027119291,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,,,,,,Otu,1230
+1260,1.340269972,0.498142676,2/17/17 Soil,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,,,,,,Otu,1260
+1306,0.027119176,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,1306
+1309,0.300836675,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Peptostreptococcaceae_unclassified,,,,,,Otu,1309
+1326,0.027120647,0.99999992,2/17/17 Soil,Synergistetes,Synergistia,Synergistales,Synergistaceae,Synergistaceae_unclassified,,,,,,Otu,1326
+1384,0.158274569,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1384
+1403,0.027116794,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1403
+1421,-0.098331207,0.99999992,2/17/17 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,1421
+1435,-0.092627735,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,1435
+1440,0.02712219,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Petrimonas,,,,,,Otu,1440
+1446,-0.098329819,0.99999992,2/17/17 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,1446
+1458,0.027118424,0.99999992,2/17/17 Soil,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,,,,,,Otu,1458
+1500,2.176423363,0.151893027,2/17/17 Soil,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,,,,,,Otu,1500
+1545,0.027116492,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,,,,,,Otu,1545
+1554,0.306539414,NA,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,,,,,Otu,1554
+1596,0.027122041,0.99999992,2/17/17 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,1596
+1619,0.027117811,0.99999992,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonadaceae_unclassified,,,,,,Otu,1619
+1626,0.027121871,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Tissierella,,,,,,Otu,1626
+1635,0.049682937,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,1635
+1647,0.02711925,0.99999992,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1647
+1654,0.027121185,0.99999992,2/17/17 Soil,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Facklamia,,,,,,Otu,1654
+1708,0.027119999,0.99999992,2/17/17 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,1708
+1838,0.027121018,NA,2/17/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1838
+1851,0.027120387,0.99999992,2/17/17 Soil,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Aerococcus,,,,,,Otu,1851
+1887,0.027120916,NA,2/17/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,1887
+1922,0.03852836,0.99999992,2/17/17 Soil,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,,,,,,Otu,1922
+2,0.08994041,0.972038578,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,2
+5,-1.1805489,0.999999992,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Petrimonas,,,,,,Otu,5
+7,-0.827965556,0.999999992,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,7
+11,0.088918869,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,11
+21,3.361586577,0.024552724,3/22/17 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,21
+39,-0.076199436,0.999999992,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,39
+51,0.551060685,0.885040237,3/22/17 Soil,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,,,,,Otu,51
+60,3.435809649,0.02963126,3/22/17 Soil,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonadaceae_unclassified,,,,,,Otu,60
+75,2.48157458,0.206227927,3/22/17 Soil,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,,,,,,Otu,75
+86,0.300157989,0.955597522,3/22/17 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,86
+94,-0.305518973,0.999999992,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,94
+102,-0.105160247,0.999999992,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Terrisporobacter,,,,,,Otu,102
+123,1.655351597,0.448092287,3/22/17 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,123
+138,22.27016517,1.06E-53,3/22/17 Soil,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,,,,,,Otu,138
+149,0.67295135,0.812697133,3/22/17 Soil,Firmicutes,Negativicutes,Selenomonadales,Acidaminococcaceae,Phascolarctobacterium,,,,,,Otu,149
+166,-0.452552594,0.999999992,3/22/17 Soil,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,,,,,,Otu,166
+179,0.049257617,0.972038578,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,179
+187,0.300155497,0.967452065,3/22/17 Soil,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,,,,,,Otu,187
+193,0.300162028,0.946690374,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,,,Otu,193
+202,-0.622696635,0.999999992,3/22/17 Soil,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Turicibacter,,,,,,Otu,202
+213,0.369975864,0.841377183,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Romboutsia,,,,,,Otu,213
+214,-0.493797564,0.999999992,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,214
+219,0.049248989,0.972038578,3/22/17 Soil,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinospirillum,,,,,,Otu,219
+236,1.38419752,0.408323986,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,,,,,Otu,236
+254,0.049244561,0.972038578,3/22/17 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,254
+286,0.425610564,0.911695311,3/22/17 Soil,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Syntrophaceticus,,,,,,Otu,286
+299,0.425609429,0.919167092,3/22/17 Soil,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,,,,,,Otu,299
+308,-0.20164674,0.999999992,3/22/17 Soil,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonadaceae_unclassified,,,,,,Otu,308
+325,0.049253248,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,325
+327,0.049257602,0.972038578,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonadaceae_unclassified,,,,,,Otu,327
+332,0.425612326,0.919167092,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Anaerocella,,,,,,Otu,332
+344,-0.076193451,0.999999992,3/22/17 Soil,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,,,,,Otu,344
+346,0.174706766,0.972038578,3/22/17 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,346
+397,0.049260148,0.972038578,3/22/17 Soil,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcaceae_unclassified,,,,,,Otu,397
+399,0.174709933,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,399
+426,0.174709491,0.972038578,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,426
+431,0.04925022,0.972038578,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Marinilabiliaceae,Marinilabiliaceae_unclassified,,,,,,Otu,431
+448,0.049252142,0.972038578,3/22/17 Soil,Proteobacteria,Proteobacteria_unclassified,Proteobacteria_unclassified,Proteobacteria_unclassified,Proteobacteria_unclassified,,,,,,Otu,448
+457,0.174705489,0.972038578,3/22/17 Soil,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Atopostipes,,,,,,Otu,457
+461,-0.076192029,0.999999992,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Sporanaerobacter,,,,,,Otu,461
+475,0.300160918,0.95728277,3/22/17 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,475
+498,-0.403024708,0.999999992,3/22/17 Soil,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Megasphaera,,,,,,Otu,498
+503,0.049255192,0.972038578,3/22/17 Soil,Synergistetes,Synergistia,Synergistales,Synergistaceae,Aminobacterium,,,,,,Otu,503
+542,0.049260617,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,542
+547,0.300161446,0.948204345,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,547
+556,-0.955458768,0.999999992,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,,,,,Otu,556
+591,-0.201646203,0.999999992,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Anaerococcus,,,,,,Otu,591
+592,0.174710078,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,592
+593,0.049249163,0.972038578,3/22/17 Soil,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Sphaerochaeta,,,,,,Otu,593
+596,0.676520127,0.820998406,3/22/17 Soil,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Selenomonas,,,,,,Otu,596
+612,0.551063219,0.89520378,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,612
+673,0.049258747,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,673
+707,-0.076194069,0.999999992,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,707
+710,0.049258028,0.972038578,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,,,Otu,710
+748,0.049253431,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,748
+768,0.049258083,0.972038578,3/22/17 Soil,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Ignatzschineria,,,,,,Otu,768
+776,0.049248173,0.972038578,3/22/17 Soil,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,,,,,,Otu,776
+800,0.300164838,0.948204345,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,800
+805,0.801970001,0.76128515,3/22/17 Soil,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,,,,,,Otu,805
+826,0.049254445,0.972038578,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,,,,,,Otu,826
+842,0.049255542,0.972038578,3/22/17 Soil,Proteobacteria,Gammaproteobacteria,Aeromonadales,Succinivibrionaceae,Succinivibrio,,,,,,Otu,842
+868,0.04924787,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,868
+878,0.049256707,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,878
+883,0.551064762,0.885040237,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,,,,,,Otu,883
+918,-0.577996986,0.999999992,3/22/17 Soil,Bacteroidetes,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,,,,,,Otu,918
+956,0.55106517,0.876026772,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,956
+958,0.174712164,0.972038578,3/22/17 Soil,Firmicutes,Negativicutes,Selenomonadales,Veillonellaceae,Veillonellaceae_unclassified,,,,,,Otu,958
+973,0.049255871,0.972038578,3/22/17 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,973
+1028,0.049256448,0.972038578,3/22/17 Soil,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacteriaceae_unclassified,,,,,,Otu,1028
+1030,1.301565968,0.581437413,3/22/17 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,1030
+1086,0.049253952,0.972038578,3/22/17 Soil,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,,,,,,Otu,1086
+1144,-0.076197114,0.999999992,3/22/17 Soil,Bacteroidetes,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,Bacteroidetes_unclassified,,,,,,Otu,1144
+1148,0.049256717,0.972038578,3/22/17 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,1148
+1149,0.04925548,0.972038578,3/22/17 Soil,Proteobacteria,Gammaproteobacteria,Aeromonadales,Succinivibrionaceae,Succinivibrio,,,,,,Otu,1149
+1178,0.676510489,0.89521609,3/22/17 Soil,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,,,,,,Otu,1178
+1192,0.049257862,0.972038578,3/22/17 Soil,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Oligella,,,,,,Otu,1192
+1200,0.049252687,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,1200
+1202,0.049257354,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,1202
+1230,0.049256294,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Coprococcus,,,,,,Otu,1230
+1260,0.67651778,0.81691754,3/22/17 Soil,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,,,,,,Otu,1260
+1306,0.04925618,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Clostridiales_Incertae_Sedis_XI_unclassified,,,,,,Otu,1306
+1309,0.425615971,0.910059372,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Peptostreptococcaceae_unclassified,,,,,,Otu,1309
+1326,0.04925765,0.972038578,3/22/17 Soil,Synergistetes,Synergistia,Synergistales,Synergistaceae,Synergistaceae_unclassified,,,,,,Otu,1326
+1384,0.17470923,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1384
+1403,0.04925379,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1403
+1421,-0.076194207,0.999999992,3/22/17 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,1421
+1435,-0.201644729,0.999999992,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,,,,,,Otu,1435
+1440,0.049259198,0.972038578,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Petrimonas,,,,,,Otu,1440
+1446,-0.07619282,0.999999992,3/22/17 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,1446
+1458,0.049255422,0.972038578,3/22/17 Soil,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,,,,,,Otu,1458
+1500,0.425614621,0.899101434,3/22/17 Soil,Actinobacteria,Actinobacteria,Actinomycetales,Corynebacteriaceae,Corynebacterium,,,,,,Otu,1500
+1545,0.551059887,0.922584937,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcus,,,,,,Otu,1545
+1554,0.801971307,0.82062047,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,,,,,,Otu,1554
+1596,0.049259047,0.972038578,3/22/17 Soil,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,,,,,,Otu,1596
+1619,0.049254806,0.972038578,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonadaceae_unclassified,,,,,,Otu,1619
+1626,0.049258877,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis_XI,Tissierella,,,,,,Otu,1626
+1635,0.67595218,0.758493606,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto,,,,,,Otu,1635
+1647,0.174707876,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1647
+1654,0.174709826,0.972038578,3/22/17 Soil,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Facklamia,,,,,,Otu,1654
+1708,0.049257002,0.972038578,3/22/17 Soil,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,,,,,,Otu,1708
+1838,0.04925802,0.972038578,3/22/17 Soil,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,,,,,,Otu,1838
+1851,0.049257389,0.972038578,3/22/17 Soil,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Aerococcus,,,,,,Otu,1851
+1887,0.300161193,0.972038578,3/22/17 Soil,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,,,,,,Otu,1887
+1922,0.049260671,0.972038578,3/22/17 Soil,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,,,,,,Otu,1922

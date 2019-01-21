@@ -1,0 +1,131 @@
+﻿ID,Type,Date,Date_Type,Site,Sample_num,NMDSType
+LT1S1R10G130,Manure Line,fall post-manure,manure line,1,10,manure line
+LT1S1R11G131,Manure Line,fall post-manure,manure line,1,11,manure line
+LT1S1R12G132,Manure Line,fall post-manure,manure line,1,12,manure line
+LT1S1R1G121,Manure Line,fall post-manure,manure line,1,1,manure line
+LT1S1R2G122,Manure Line,fall post-manure,manure line,1,2,manure line
+LT1S1R3G123,Manure Line,fall post-manure,manure line,1,3,manure line
+LT1S1R4G124,Manure Line,fall post-manure,manure line,1,4,manure line
+LT1S1R5G125,Manure Line,fall post-manure,manure line,1,5,manure line
+LT1S1R6G126,Manure Line,fall post-manure,manure line,1,6,manure line
+LT1S1R7G127,Manure Line,fall post-manure,manure line,1,7,manure line
+LT1S1R8G128,Manure Line,fall post-manure,manure line,1,8,manure line
+LT1S1R9G129,Manure Line,fall post-manure,manure line,1,9,manure line
+LT1S2R10G143,Manure Line,fall post-manure,manure line,2,10,manure line
+LT1S2R11G142,Manure Line,fall post-manure,manure line,2,11,manure line
+LT1S2R12G144,Manure Line,fall post-manure,manure line,2,12,manure line
+LT1S2R1G133,Manure Line,fall post-manure,manure line,2,1,manure line
+LT1S2R2G134,Manure Line,fall post-manure,manure line,2,2,manure line
+LT1S2R3G135,Manure Line,fall post-manure,manure line,2,3,manure line
+LT1S2R4G136,Manure Line,fall post-manure,manure line,2,4,manure line
+LT1S2R5G137,Manure Line,fall post-manure,manure line,2,5,manure line
+LT1S2R6G138,Manure Line,fall post-manure,manure line,2,6,manure line
+LT1S2R7G139,Manure Line,fall post-manure,manure line,2,7,manure line
+LT1S2R8G140,Manure Line,fall post-manure,manure line,2,8,manure line
+LT1S2R9G141,Manure Line,fall post-manure,manure line,2,9,manure line
+MG217,Manure,manure application,manure,,1,manure
+MG218,Manure,manure application,manure,,2,manure
+MG219,Manure,manure application,manure,,3,manure
+MG220,Manure,manure application,manure,,4,manure
+MG221,Manure,manure application,manure,,5,manure
+MG222,Manure,manure application,manure,,6,manure
+MG223,Manure,manure application,manure,,7,manure
+MG224,Manure,manure application,manure,,8,manure
+MG225,Manure,manure application,manure,,9,manure
+MG226,Manure,manure application,manure,,10,manure
+OT0S1R10G106,Soil,pre-manure,fall pre-manure soil,1,10,fall pre-manure soil
+OT0S1R11G107,Soil,pre-manure,fall pre-manure soil,1,11,fall pre-manure soil
+OT0S1R12G108,Soil,pre-manure,fall pre-manure soil,1,12,fall pre-manure soil
+OT0S1R1G097,Soil,pre-manure,fall pre-manure soil,1,1,fall pre-manure soil
+OT0S1R2G098,Soil,pre-manure,fall pre-manure soil,1,2,fall pre-manure soil
+OT0S1R3G099,Soil,pre-manure,fall pre-manure soil,1,3,fall pre-manure soil
+OT0S1R4G100,Soil,pre-manure,fall pre-manure soil,1,4,fall pre-manure soil
+OT0S1R5G101,Soil,pre-manure,fall pre-manure soil,1,5,fall pre-manure soil
+OT0S1R6G102,Soil,pre-manure,fall pre-manure soil,1,6,fall pre-manure soil
+OT0S1R7G103,Soil,pre-manure,fall pre-manure soil,1,7,fall pre-manure soil
+OT0S1R8G104,Soil,pre-manure,fall pre-manure soil,1,8,fall pre-manure soil
+OT0S1R9G105,Soil,pre-manure,fall pre-manure soil,1,9,fall pre-manure soil
+OT0S2R10G118,Soil,pre-manure,fall pre-manure soil,2,10,fall pre-manure soil
+OT0S2R11G119,Soil,pre-manure,fall pre-manure soil,2,11,fall pre-manure soil
+OT0S2R12G120,Soil,pre-manure,fall pre-manure soil,2,12,fall pre-manure soil
+OT0S2R1G109,Soil,pre-manure,fall pre-manure soil,2,1,fall pre-manure soil
+OT0S2R2G110,Soil,pre-manure,fall pre-manure soil,2,2,fall pre-manure soil
+OT0S2R3G111,Soil,pre-manure,fall pre-manure soil,2,3,fall pre-manure soil
+OT0S2R4G112,Soil,pre-manure,fall pre-manure soil,2,4,fall pre-manure soil
+OT0S2R5G113,Soil,pre-manure,fall pre-manure soil,2,5,fall pre-manure soil
+OT0S2R6G114,Soil,pre-manure,fall pre-manure soil,2,6,fall pre-manure soil
+OT0S2R7G115,Soil,pre-manure,fall pre-manure soil,2,7,fall pre-manure soil
+OT0S2R8G116,Soil,pre-manure,fall pre-manure soil,2,8,fall pre-manure soil
+OT0S2R9G117,Soil,pre-manure,fall pre-manure soil,2,9,fall pre-manure soil
+OT1S1R10G154,Soil,fall post-manure,fall post-manure soil,1,10,fall post-manure soil
+OT1S1R11G155,Soil,fall post-manure,fall post-manure soil,1,11,fall post-manure soil
+OT1S1R12G156,Soil,fall post-manure,fall post-manure soil,1,12,fall post-manure soil
+OT1S1R1G145,Soil,fall post-manure,fall post-manure soil,1,1,fall post-manure soil
+OT1S1R2G146,Soil,fall post-manure,fall post-manure soil,1,2,fall post-manure soil
+OT1S1R3G147,Soil,fall post-manure,fall post-manure soil,1,3,fall post-manure soil
+OT1S1R4G148,Soil,fall post-manure,fall post-manure soil,1,4,fall post-manure soil
+OT1S1R5G149,Soil,fall post-manure,fall post-manure soil,1,5,fall post-manure soil
+OT1S1R6G150,Soil,fall post-manure,fall post-manure soil,1,6,fall post-manure soil
+OT1S1R7G151,Soil,fall post-manure,fall post-manure soil,1,7,fall post-manure soil
+OT1S1R8G152,Soil,fall post-manure,fall post-manure soil,1,8,fall post-manure soil
+OT1S1R9G153,Soil,fall post-manure,fall post-manure soil,1,9,fall post-manure soil
+OT1S2R10G166,Soil,fall post-manure,fall post-manure soil,2,10,fall post-manure soil
+OT1S2R11G167,Soil,fall post-manure,fall post-manure soil,2,11,fall post-manure soil
+OT1S2R12G168,Soil,fall post-manure,fall post-manure soil,2,12,fall post-manure soil
+OT1S2R1G157,Soil,fall post-manure,fall post-manure soil,2,1,fall post-manure soil
+OT1S2R2G158,Soil,fall post-manure,fall post-manure soil,2,2,fall post-manure soil
+OT1S2R3G159,Soil,fall post-manure,fall post-manure soil,2,3,fall post-manure soil
+OT1S2R4G160,Soil,fall post-manure,fall post-manure soil,2,4,fall post-manure soil
+OT1S2R5G161,Soil,fall post-manure,fall post-manure soil,2,5,fall post-manure soil
+OT1S2R6G162,Soil,fall post-manure,fall post-manure soil,2,6,fall post-manure soil
+OT1S2R7G163,Soil,fall post-manure,fall post-manure soil,2,7,fall post-manure soil
+OT1S2R8G164,Soil,fall post-manure,fall post-manure soil,2,8,fall post-manure soil
+OT1S2R9G165,Soil,fall post-manure,fall post-manure soil,2,9,fall post-manure soil
+OT2S1R10G178,Soil,spring time 1,spring time 1 soil,1,10,spring soil
+OT2S1R11G179,Soil,spring time 1,spring time 1 soil,1,11,spring soil
+OT2S1R12G180,Soil,spring time 1,spring time 1 soil,1,12,spring soil
+OT2S1R1G169,Soil,spring time 1,spring time 1 soil,1,1,spring soil
+OT2S1R2G170,Soil,spring time 1,spring time 1 soil,1,2,spring soil
+OT2S1R3G171,Soil,spring time 1,spring time 1 soil,1,3,spring soil
+OT2S1R4G172,Soil,spring time 1,spring time 1 soil,1,4,spring soil
+OT2S1R5G173,Soil,spring time 1,spring time 1 soil,1,5,spring soil
+OT2S1R6G174,Soil,spring time 1,spring time 1 soil,1,6,spring soil
+OT2S1R7G175,Soil,spring time 1,spring time 1 soil,1,7,spring soil
+OT2S1R8G176,Soil,spring time 1,spring time 1 soil,1,8,spring soil
+OT2S1R9G177,Soil,spring time 1,spring time 1 soil,1,9,spring soil
+OT2S2R10G190,Soil,spring time 1,spring time 1 soil,2,10,spring soil
+OT2S2R11G191,Soil,spring time 1,spring time 1 soil,2,11,spring soil
+OT2S2R12G192,Soil,spring time 1,spring time 1 soil,2,12,spring soil
+OT2S2R1G181,Soil,spring time 1,spring time 1 soil,2,1,spring soil
+OT2S2R2G182,Soil,spring time 1,spring time 1 soil,2,2,spring soil
+OT2S2R3G183,Soil,spring time 1,spring time 1 soil,2,3,spring soil
+OT2S2R4G184,Soil,spring time 1,spring time 1 soil,2,4,spring soil
+OT2S2R5G185,Soil,spring time 1,spring time 1 soil,2,5,spring soil
+OT2S2R6G186,Soil,spring time 1,spring time 1 soil,2,6,spring soil
+OT2S2R7G187,Soil,spring time 1,spring time 1 soil,2,7,spring soil
+OT2S2R8G188,Soil,spring time 1,spring time 1 soil,2,8,spring soil
+OT2S2R9G189,Soil,spring time 1,spring time 1 soil,2,9,spring soil
+OT3S1R10G202,Soil,spring time 2,spring time 2 soil,1,10,spring soil
+OT3S1R11G203,Soil,spring time 2,spring time 2 soil,1,11,spring soil
+OT3S1R12G204,Soil,spring time 2,spring time 2 soil,1,12,spring soil
+OT3S1R1G193,Soil,spring time 2,spring time 2 soil,1,1,spring soil
+OT3S1R2G194,Soil,spring time 2,spring time 2 soil,1,2,spring soil
+OT3S1R3G195,Soil,spring time 2,spring time 2 soil,1,3,spring soil
+OT3S1R4G196,Soil,spring time 2,spring time 2 soil,1,4,spring soil
+OT3S1R5G197,Soil,spring time 2,spring time 2 soil,1,5,spring soil
+OT3S1R6G198,Soil,spring time 2,spring time 2 soil,1,6,spring soil
+OT3S1R7G199,Soil,spring time 2,spring time 2 soil,1,7,spring soil
+OT3S1R8G200,Soil,spring time 2,spring time 2 soil,1,8,spring soil
+OT3S1R9G201,Soil,spring time 2,spring time 2 soil,1,9,spring soil
+OT3S2R10G214,Soil,spring time 2,spring time 2 soil,2,10,spring soil
+OT3S2R11G215,Soil,spring time 2,spring time 2 soil,2,11,spring soil
+OT3S2R12G216,Soil,spring time 2,spring time 2 soil,2,12,spring soil
+OT3S2R1G205,Soil,spring time 2,spring time 2 soil,2,1,spring soil
+OT3S2R2G206,Soil,spring time 2,spring time 2 soil,2,2,spring soil
+OT3S2R3G207,Soil,spring time 2,spring time 2 soil,2,3,spring soil
+OT3S2R4G208,Soil,spring time 2,spring time 2 soil,2,4,spring soil
+OT3S2R5G209,Soil,spring time 2,spring time 2 soil,2,5,spring soil
+OT3S2R6G210,Soil,spring time 2,spring time 2 soil,2,6,spring soil
+OT3S2R7G211,Soil,spring time 2,spring time 2 soil,2,7,spring soil
+OT3S2R8G212,Soil,spring time 2,spring time 2 soil,2,8,spring soil
+OT3S2R9G213,Soil,spring time 2,spring time 2 soil,2,9,spring soil
